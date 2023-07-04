@@ -7,4 +7,3 @@ namespace ProgComImpl
 {
     void SimpleFunc(void);
 }
-
